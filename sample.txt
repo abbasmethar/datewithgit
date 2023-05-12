@@ -7,7 +7,7 @@ This is the NO.1 BULLSHIT !}
 
 
 {
-    hgfdhgdfhghgdfhgf dfuhre uhvrev hreuhvreg pseudo codes..!
+    just checked if the command git stash works and it got worked !
 
 }
 
